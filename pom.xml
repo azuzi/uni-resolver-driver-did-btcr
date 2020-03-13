@@ -20,7 +20,7 @@
   </scm>
 	<distributionManagement>
 		<repository>
-			<id>github</id>
+			<id>github-btcr</id>
 			<name>GitHub decentralized-identity uni-resolver-driver-did-btcr</name>
 			<url>https://maven.pkg.github.com/decentralized-identity/uni-resolver-driver-did-btcr</url>
 		</repository>
