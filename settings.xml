@@ -19,13 +19,13 @@
         </repository>
 	<repository>
           <id>github</id>
-          <name>GitHub decentralized-identity universal-resolver</name>
-          <url>https://maven.pkg.github.com/decentralized-identity/universal-resolver</url>
+          <name>GitHub WebOfTrustInfo btc-tx-lookup-java</name>
+          <url>https://maven.pkg.github.com/WebOfTrustInfo/btc-tx-lookup-java</url>
         </repository>
 	<repository>
           <id>github</id>
-          <name>GitHub WebOfTrustInfo btc-tx-lookup-java</name>
-          <url>https://maven.pkg.github.com/WebOfTrustInfo/btc-tx-lookup-java</url>
+          <name>GitHub decentralized-identity uni-resolver</name>
+          <url>https://maven.pkg.github.com/decentralized-identity/universal-resolver</url>
         </repository>
       </repositories>
     </profile>
