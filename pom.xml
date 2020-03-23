@@ -4,7 +4,7 @@
 	<artifactId>uni-resolver-driver-did-btcr</artifactId>
 	<packaging>${packaging.type}</packaging>
 	<name>uni-resolver-driver-did-btcr</name>
-	<version>0.1.2-SNAPSHOT</version>
+	<version>0.1.1-SNAPSHOT</version>
 
 	<parent>
 		<groupId>decentralized-identity</groupId>
