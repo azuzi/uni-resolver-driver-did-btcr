@@ -1,6 +1,6 @@
 # Change Log
 
-## 0.1.2-SNAPSHOT
+## 0.1.1
 * rele [e8d587b](e8d587b2440eab4fa105e4be118bd8d1a596ede6)
 * Latest Release v0.1.1 [55d2bab](55d2bab2c1ba4e97d03b11d0ea9cf8429c1df3e4)
 * Latest Release v0.1.1 [c17dce6](c17dce64980c42ac9d97281a179e5040fa59dda1)
