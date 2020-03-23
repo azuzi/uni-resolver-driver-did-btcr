@@ -15,11 +15,6 @@
           <url>https://maven.pkg.github.com/decentralized-identity/universal-resolver</url>
         </repository>
         <repository>
-          <id>github-btcr</id>
-          <name>GitHub WebOfTrustInfo btc-tx-lookup-java</name>
-          <url>https://maven.pkg.github.com/WebOfTrustInfo/btc-tx-lookup-java</url>
-        </repository>
-        <repository>
           <id>github-btclookup</id>
           <name>GitHub WebOfTrustInfo btc-tx-lookup-java</name>
           <url>https://maven.pkg.github.com/WebOfTrustInfo/btc-tx-lookup-java</url>
@@ -30,18 +25,13 @@
   <servers>
     <server>
       <id>github-ur</id>
-      <username>OWNER</username>
-      <password>TOKEN</password>
+      <username>azuzi</username>
+      <password>token</password>
     </server>
     <server>
       <id>github-btclookup</id>
-      <username>OWNER</username>
-      <password>TOKEN</password>
-    </server>
-    <server>
-      <id>github-btcr</id>
-      <username>OWNER</username>
-      <password>TOKEN</password>
+      <username>azuzi</username>
+      <password>token</password>
     </server>
   </servers>
 

@@ -13,16 +13,16 @@
 	</parent>
 
 	<scm>
-		<url>https://github.com/decentralized-identity/uni-resolver-driver-did-btcr</url>
-		<connection>scm:git:git://github.com/decentralized-identity/uni-resolver-driver-did-btcr.git</connection>
-		<developerConnection>scm:git:git@github.com:decentralized-identity/uni-resolver-driver-did-btcr.git</developerConnection>
+		<url>https://github.com/azuzi/uni-resolver-driver-did-btcr</url>
+		<connection>scm:git:git://github.com/azuzi/uni-resolver-driver-did-btcr.git</connection>
+		<developerConnection>scm:git:git@github.com:azuzi/uni-resolver-driver-did-btcr.git</developerConnection>
 	  <tag>HEAD</tag>
   </scm>
 	<distributionManagement>
 		<repository>
 			<id>github-btcr</id>
-			<name>GitHub decentralized-identity uni-resolver-driver-did-btcr</name>
-			<url>https://maven.pkg.github.com/decentralized-identity/uni-resolver-driver-did-btcr</url>
+			<name>GitHub azuzi uni-resolver-driver-did-btcr</name>
+			<url>https://maven.pkg.github.com/azuzi/uni-resolver-driver-did-btcr</url>
 		</repository>
 	</distributionManagement>
 
